@@ -9,4 +9,12 @@
 9. grep - Search text
 10. chmod - Change permissions
 
+## Vim Commands
+
+- i - Insert mode
+- Esc - Exit insert mode
+- :w - Save
+- :q - Quit
+- :wq - Save and quit
+- :q! - Quit without saving
 
